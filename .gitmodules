@@ -1,3 +1,6 @@
 [submodule "Common"]
 	path = Common
 	url = https://github.com/Liemander/PainForGlory_Common.git
+[submodule "Assets/Scripts/Common"]
+	path = Assets/Scripts/Common
+	url = https://github.com/Liemander/PainForGlory_Common.git
